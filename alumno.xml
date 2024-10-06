@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <persona>
+        <apellidos>Salvat</apellidos>
+        <ciudad>Lima</ciudad>
+        <edad>28</edad>
+        <nombre>Luis</nombre>
+    </persona>
+</personas>
